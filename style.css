@@ -1,0 +1,68 @@
+.container{
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    background-image: url("img/pubg1.jpg"); 
+}
+
+
+
+
+img{
+    width: 1500px;
+
+}
+.container1{
+    /* border: 2px solid red; */
+    height: 400px;
+    width: 300px;
+    background-color:transparen ;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+.input{
+    /* border: 1px solid black; */
+    width: auto;
+    margin: auto;
+    border-radius: 10px;
+    /* background-color: white; */
+}
+input{
+    width: 230px;
+    border: 2px solid white;
+    border-radius: 50px;
+    outline: none;
+    margin: 10px;
+    background-color: transparent;
+    color: white;
+    box-shadow: 2px 2px 5px white;
+    height: 30px;
+    padding-left: 5px;
+    font-size: 15px;
+
+}
+i{
+    color: white;
+}
+::placeholder{
+    color: white;
+}
+button{
+    height: 30px;
+    width: 130px;
+    border-radius: 40px;
+    outline: none;
+    font-size: 15px;
+    /* color: transparent; */
+    font-weight: 700;
+}
+.btn{
+    margin-top: 10px;
+}
